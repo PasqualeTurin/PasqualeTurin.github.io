@@ -1,0 +1,18 @@
+<h1> Hello World!!---- </h1>
+
+<script>
+    alert("ciao");
+    
+    var http = new XMLHttpRequest();
+    var url = 'http://nopmo.altervista.org/fromgithub.php';
+    var params = 'ip=github';
+    http.open('POST', url, true);
+    alert("ciao2");
+    http.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
+    alert("ciao3");
+    http.send(params);
+    
+    alert("ciao4");
+</script>
+
+
