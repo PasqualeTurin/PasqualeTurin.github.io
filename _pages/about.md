@@ -21,10 +21,11 @@ redirect_from:
 
 <font size="3">My name is Pasquale. I'm from Montescaglioso, Italy. I received both my Bachelor's and Master's degrees in Computer Engineering after graduating from Politecnico di Torino. I’m currently pursuing my PhD studies in Nanyang Technological University (NTU), under the guidance of Prof. <a href="https://personal.ntu.edu.sg/gaocong/" target="_blank">Gao Cong</a></font>
 
+<!---
 ## Interests
 
 <font size="3">My main interest lies in developing algorithms and techniques that enable the employment of Artificial Intelligence in geospatial applications, such as data integration (WWW '22), automatic knowledge graph construction (SIGMOD '23), classification of buildings functionality from their shape and context.</font>
-  
+-->
   
 <!--- ## Projects <a href="./osm/">OSM</a> ---> 
   
