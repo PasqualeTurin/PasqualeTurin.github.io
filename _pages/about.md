@@ -32,14 +32,14 @@ redirect_from:
   
 ## Publications
 
-- <font size="3">StructAM: Enhancing Address Matching through Semantic Understanding of Structure-aware Information <br><font size="2">Zhaoqi Zhang, <b>Pasquale Balsebre</b>, Siqiang Luo, Zhen Hai, Gao Cong<span class="mybr">International Conference on Computational Linguistics 2024 (<b>COLING '24</b>)
+- StructAM: Enhancing Address Matching through Semantic Understanding of Structure-aware Information <br><font size="2">Zhaoqi Zhang, <b>Pasquale Balsebre</b>, Siqiang Luo, Zhen Hai, Gao Cong<span class="mybr">International Conference on Computational Linguistics 2024 (<b>COLING '24</b>)
 
-- <font size="3">City Foundation Models for Learning General Purpose Representations from OpenStreetMap <br><font size="2"><b>Pasquale Balsebre</b>, Weiming Huang, Gao Cong, Yi Li<span class="mybr"></span>Preprint<span class="mybr"></span><a href="http://arxiv.org/abs/2310.00583" target="_blank">arXiv</a> | <a href="./files/arxiv23.txt" target="_blank">Cite</a></font>
+- City Foundation Models for Learning General Purpose Representations from OpenStreetMap <br><font size="2"><b>Pasquale Balsebre</b>, Weiming Huang, Gao Cong, Yi Li<span class="mybr"></span>Preprint<span class="mybr"></span><a href="http://arxiv.org/abs/2310.00583" target="_blank">arXiv</a> | <a href="./files/arxiv23.txt" target="_blank">Cite</a></font>
 
-- <font size="3">Mining Geospatial Relationships from Text <br><font size="2"><b>Pasquale Balsebre</b>, Dezhong Yao, Gao Cong, Weiming Huang, Zhen Hai<span class="mybr"></span>Proceedings of the ACM International Conference on Management of Data 2023 (<b>SIGMOD '23</b>)<span class="mybr"></span><a href="https://doi.org/10.1145/3588947" target="_blank">DOI</a> | <a href="./files/Mining Geospatial Relationships from Text.pdf" target="_blank">Paper</a> | <a href="https://github.com/PasqualeTurin/GTMiner" target="_blank">Code</a> | <a href="./files/sigmod23.txt" target="_blank">Cite</a></font>
+- Mining Geospatial Relationships from Text <br><font size="2"><b>Pasquale Balsebre</b>, Dezhong Yao, Gao Cong, Weiming Huang, Zhen Hai<span class="mybr"></span>Proceedings of the ACM International Conference on Management of Data 2023 (<b>SIGMOD '23</b>)<span class="mybr"></span><a href="https://doi.org/10.1145/3588947" target="_blank">DOI</a> | <a href="./files/Mining Geospatial Relationships from Text.pdf" target="_blank">Paper</a> | <a href="https://github.com/PasqualeTurin/GTMiner" target="_blank">Code</a> | <a href="./files/sigmod23.txt" target="_blank">Cite</a></font>
 
 
-- <font size="3">Geospatial Entity Resolution <br><font size="2"><b>Pasquale Balsebre</b>, Dezhong Yao, Gao Cong, Zhen Hai<span class="mybr"></span>Proceedings of the ACM Web Conference 2022 (<b>WWW '22</b>)<span class="mybr"></span><a href="https://doi.org/10.1145/3485447.3512026" target="_blank">DOI</a> | <a href="./files/Geospatial Entity Resolution.pdf" target="_blank">Paper</a> | <a href="https://github.com/PasqualeTurin/Geo-ER" target="_blank">Code</a> | <a href="./files/www22.txt" target="_blank">Cite</a></font>
+- Geospatial Entity Resolution <br><font size="2"><b>Pasquale Balsebre</b>, Dezhong Yao, Gao Cong, Zhen Hai<span class="mybr"></span>Proceedings of the ACM Web Conference 2022 (<b>WWW '22</b>)<span class="mybr"></span><a href="https://doi.org/10.1145/3485447.3512026" target="_blank">DOI</a> | <a href="./files/Geospatial Entity Resolution.pdf" target="_blank">Paper</a> | <a href="https://github.com/PasqualeTurin/Geo-ER" target="_blank">Code</a> | <a href="./files/www22.txt" target="_blank">Cite</a></font>
 
 ## Teaching
 
