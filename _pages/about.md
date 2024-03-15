@@ -32,11 +32,11 @@ redirect_from:
   
 ## Publications
 
-- StructAM: Enhancing Address Matching through Semantic Understanding of Structure-aware Information <br><font size="2">Zhaoqi Zhang, <b>Pasquale Balsebre</b>, Siqiang Luo, Zhen Hai, Jiangping Huang<span class="mybr">International Conference on Computational Linguistics 2024 (<b>COLING '24</b>)
-
 - LAMP: A Language Model on the Map <br><font size="2"><b>Pasquale Balsebre</b>, Weiming Huang, Gao Cong<span class="mybr"></span>Preprint<span class="mybr"></span><a href="http://arxiv.org/abs/2403.09059" target="_blank">arXiv</a></font>
 
 - City Foundation Models for Learning General Purpose Representations from OpenStreetMap <br><font size="2"><b>Pasquale Balsebre</b>, Weiming Huang, Gao Cong, Yi Li<span class="mybr"></span>Preprint<span class="mybr"></span><a href="http://arxiv.org/abs/2310.00583" target="_blank">arXiv</a> | <a href="./files/arxiv23.txt" target="_blank">Cite</a></font>
+
+- StructAM: Enhancing Address Matching through Semantic Understanding of Structure-aware Information <br><font size="2">Zhaoqi Zhang, <b>Pasquale Balsebre</b>, Siqiang Luo, Zhen Hai, Jiangping Huang<span class="mybr">International Conference on Computational Linguistics 2024 (<b>COLING '24</b>)
 
 - Mining Geospatial Relationships from Text <br><font size="2"><b>Pasquale Balsebre</b>, Dezhong Yao, Gao Cong, Weiming Huang, Zhen Hai<span class="mybr"></span>Proceedings of the ACM International Conference on Management of Data 2023 (<b>SIGMOD '23</b>)<span class="mybr"></span><a href="https://doi.org/10.1145/3588947" target="_blank">DOI</a> | <a href="./files/Mining Geospatial Relationships from Text.pdf" target="_blank">Paper</a> | <a href="https://github.com/PasqualeTurin/GTMiner" target="_blank">Code</a> | <a href="./files/sigmod23.txt" target="_blank">Cite</a></font>
 
