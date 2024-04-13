@@ -2,7 +2,8 @@
       title={City Foundation Models for Learning General Purpose Representations from OpenStreetMap}, 
       author={Pasquale Balsebre and Weiming Huang and Gao Cong and Yi Li},
       year={2023},
-      eprint={2310.00583},
+      eprint={2310.00583v2},
+      journal={arXiv:2310.00583v2},
       archivePrefix={arXiv},
       primaryClass={cs.DB}
 }
