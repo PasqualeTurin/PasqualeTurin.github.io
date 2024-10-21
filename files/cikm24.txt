@@ -1,0 +1,15 @@
+@inproceedings{CityFM,
+author = {Balsebre, Pasquale and Huang, Weiming and Cong, Gao and Li, Yi},
+title = {City Foundation Models for Learning General Purpose Representations from OpenStreetMap},
+year = {2024},
+isbn = {9798400704369},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3627673.3679662},
+doi = {10.1145/3627673.3679662},
+pages = {87–97},
+numpages = {11},
+keywords = {contrastive learning, foundation models, geospatial data},
+location = {Boise, ID, USA},
+series = {CIKM '24}
+}
