@@ -32,6 +32,12 @@ redirect_from:
   
 ## Publications
 
+- DEG: Eﬀicient Hybrid Vector Search Using the Dynamic Edge Navigation Graph <br><font size="2">Ziqi Yin, Jianyang GAO, <b>Pasquale Balsebre</b>, Gao Cong, Cheng Long<span class="mybr"></span>Proceedings of the ACM International Conference on Management of Data 2023 (<b>SIGMOD '25</b>)
+
+<!---
+<span class="mybr"></span><a href="https://doi.org/10.1145/3627673.3679662" target="_blank">DOI</a> | <a href="./files/CityFM.pdf" target="_blank">Paper</a> | <a href="https://github.com/PasqualeTurin/CityFM" target="_blank">Code</a> | <a href="./files/cikm24.txt" target="_blank">Cite</a></font>
+-->
+
 - LAMP: A Language Model on the Map <br><font size="2"><b>Pasquale Balsebre</b>, Weiming Huang, Gao Cong<span class="mybr"></span>Preprint<span class="mybr"></span><a href="http://arxiv.org/abs/2403.09059" target="_blank">arXiv</a></font>
 
 - City Foundation Models for Learning General Purpose Representations from OpenStreetMap <br><font size="2"><b>Pasquale Balsebre</b>, Weiming Huang, Gao Cong, Yi Li<span class="mybr"></span>International Conference on  Information and Knowledge Management 2024 (<b>CIKM '24</b>)<span class="mybr"></span><a href="https://doi.org/10.1145/3627673.3679662" target="_blank">DOI</a> | <a href="./files/CityFM.pdf" target="_blank">Paper</a> | <a href="https://github.com/PasqualeTurin/CityFM" target="_blank">Code</a> | <a href="./files/cikm24.txt" target="_blank">Cite</a></font>
