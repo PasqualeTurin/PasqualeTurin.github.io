@@ -23,7 +23,7 @@ redirect_from:
 
 <!---
 ## Interests
-
+--
 <font size="3">My main interest lies in developing algorithms and techniques that enable the employment of Artificial Intelligence in geospatial applications, such as data integration (WWW '22), automatic knowledge graph construction (SIGMOD '23), classification of buildings functionality from their shape and context.</font>
 -->
   
