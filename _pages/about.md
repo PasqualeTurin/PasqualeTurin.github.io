@@ -19,7 +19,7 @@ redirect_from:
 
 ## Bio
 
-<font size="3">My name is Pasquale. I'm from Montescaglioso, Italy. I received both my Bachelor's and Master's degrees in Computer Engineering after graduating from Politecnico di Torino. I’m currently pursuing my PhD studies in Data Mining and Artificial Intellgince, in Nanyang Technological University (NTU), under the guidance of Prof. <a href="https://personal.ntu.edu.sg/gaocong/" target="_blank">Gao Cong</a></font>
+<font size="3">My name is Pasquale. I'm from Montescaglioso, Italy. I received both my Bachelor's and Master's degrees in Computer Engineering after graduating from Politecnico di Torino. I’m currently pursuing my PhD studies in Data Mining and Artificial Intellgince, in Nanyang Technological University (NTU).</font>
 
 <!---
 ## Interests
